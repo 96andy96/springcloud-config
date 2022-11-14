@@ -1,1 +1,2 @@
-prod
+config:
+ info: read config-prod content
