@@ -1,2 +1,2 @@
 config:
- info: read config-dev content
+ info: read config-dev content version=1
